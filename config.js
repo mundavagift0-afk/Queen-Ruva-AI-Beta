@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
 
-global.queenruva = "𝐐𝐔𝐄𝐄𝐍 𝐑𝐔𝐕𝐀";
+global.queenruva = "ℚ𝕌𝔼𝔼ℕ 𝔸𝕄𝕀ℝ";
 global.prefix = '.';
 global.iconictechMenu = "v1";
 global.version = "3.0";
@@ -36,8 +36,8 @@ global.blockedCountryCodes = ["+92", "91", "+62"];
 global.codewave = 'codewave-unit-force.zone.id';
 global.youwatchmovies = 'codewave-unit-force.zone.id/online/screamer/youwatch';
 global.codewaveapis = 'apis-codewave-unit-force.zone.id';
-global.ownername = "ICONICS-TECH";
-global.ownernumber = '263786115435';
+global.ownername = "𝔸𝕄𝕀ℝ 𝕋𝔼ℂℍ";
+global.ownernumber = '263786450050';
 
 global.ytname = "YouTube: https://www.youtube.com/@iconic-tech";
 global.socialm = "GitHub: https://github.com/iconictech-dev";
