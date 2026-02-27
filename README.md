@@ -178,7 +178,7 @@ Blocks users from Pakistan (+92), India (91), Indonesia (+62)
 
 ## 📌 BOT INFORMATION
 global.botname = "👑 ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ ʙᴇᴛᴀ";  Bot display name
-global.queenruva = "𝐐𝐔𝐄𝐄𝐍 𝐑𝐔𝐕𝐀";        Bot response name
+global.queenruva = "𝐐𝐔𝐄EN AMRIE𝐀";        Bot response name
 
 ## 📌 LINKS & CONTACTS
 global.iconic_channel = "https://whatsapp.com/channel/0029Vb7H0lTGZNCuwI8A7E0i";  WhatsApp channel
