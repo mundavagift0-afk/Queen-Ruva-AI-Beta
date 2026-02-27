@@ -41,10 +41,10 @@ global.ownernumber = '263786115435';
 
 global.ytname = "YouTube: https://www.youtube.com/@iconic-tech";
 global.socialm = "GitHub: https://github.com/iconictech-dev";
-global.location = "Zimbabwe, Bulawayo";
-global.botname = "Queen Ruva";
-global.packname = "Queen Ruva";
-global.author = "Iconic Tech dev";
+global.location = "Zimbabwe, Harare;
+global.botname = "Queen Amir";
+global.packname = "Queen Amir;
+global.author =AMIR tech";
 global.iconic_channel = "https://whatsapp.com/channel/0029Vb7H0lTGZNCuwI8A7E0i;
 
 global.mess = {
@@ -60,7 +60,7 @@ global.mess = {
     private: "📩 Please use this command in our private chat"
 };
 
-const thumbnails = ["ruva.jpg", "ruva2.jpg"];
+const thumbnails = ["amir.jpg", "amir.jpg"];
 const randomThumb = thumbnails[Math.floor(Math.random() * thumbnails.length)];
 global.thumb = fs.readFileSync(path.join("./QueenMedia", randomThumb));
 
@@ -72,6 +72,6 @@ fs.watchFile(file, () => {
     require(file);
 });
 
-console.log(chalk.green('👑 QUEEN RUVA AI Configuration Loaded Successfully'));
+console.log(chalk.green('👑 QUEEN AMIR AI Configuration Loaded Successfully'));
 
 // read documents at ./information/doc.txt
